@@ -1,3 +1,3 @@
 all: game
 
-game: main.o engine.o
+game: engine.o map.o
